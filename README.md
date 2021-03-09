@@ -1,1 +1,1 @@
-# rnn-name-generator
+# character-name-generator
